@@ -48,8 +48,9 @@ def naming_system
       :sub_category => {
         :lable => "Class",
         :sub_category =>{
-          lable: "Order",
+          :lable => "Order",
           :sub_category => {
+            :lable => "Order"
             
           }
         }
