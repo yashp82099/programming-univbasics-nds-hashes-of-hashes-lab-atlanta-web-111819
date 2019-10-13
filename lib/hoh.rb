@@ -43,7 +43,7 @@ def naming_system
   # HoH all the way to Species!
   hoh = {
     lable: "Kingdom",
-    sub_category: { lable: "Phylum",
+    sub_category: { :lable=> "Phylum",
     sub_category: { lable: "Class",
     sub_category: { lable: "Order",
     sub_category: { lable: "Family",
